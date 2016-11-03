@@ -1,0 +1,1 @@
+This repository will be used to house the website for the 2017 SUnMaRC undergraduate research conference, which takes place Friday, March 31-Sunday, April 2, 2017 at [Northern Arizona University](http://nau.edu).

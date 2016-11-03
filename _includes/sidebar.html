@@ -1,0 +1,28 @@
+<div class="sidebar">
+<div class="container sidebar-sticky">
+
+<div class="sidebar-about">
+<h1>{{ site.description }}</h1>
+<h2>{{ site.tagline }}</h2>
+</div>
+
+<nav class="sidebar-nav">
+<ul>
+<li><a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.baseurl }}/speakers">Faculty Speakers</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.baseurl }}/schedule">Schedule</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.baseurl }}/abstracts">Call for Abstracts</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.baseurl }}/registration">Registration</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.baseurl }}/lodging">Lodging</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.baseurl }}/localinfo">Local Information</a></li>
+</ul>
+
+<div class="sidebar-nav-item">
+<p>Created with <a href="https://pages.github.com">GitHub Pages</a>, <a href="http://jekyllrb.com">Jekyll</a>, and <a href="http://hyde.getpoole.com">Hyde</a>. Maintained by <a href="http://danaernst.com">Dana C. Ernst</a>. [<a href="http://github.com/NAUMathStat/seminars">Source Code</a>]</p>
+<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+</div>
+
+</nav>
+
+</div>
+</div>
