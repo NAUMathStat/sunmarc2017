@@ -13,9 +13,9 @@ title: Invited Faculty Speakers
 
 <h1>Kathryn Bryant</h1>
 
-<img src="{{ site.baseurl }}/Bryant.jpg" align="right" width="150" img style="margin-left: 15px"/><p style="text-align:justify">Kathryn Bryant is a Visiting Assistant Professor of Mathematics at Colorado College. She received her Ph.D. from Bryn Mawr College in May 2016 and is an alumna of Northern Arizona University. Her primary area of research is in low-dimensional topology, within which she studies questions in the intersection of knot theory and 4-manifold theory. Kathryn's secondary area of research is in applied topology, with a current project looking at the applications of persistent homology to topographical pattern recognition in geophysical (geological) data. When she is not thinking about math in its varied capacities, she enjoys running, yoga, and finding and consuming the best almond croissants in town.</p>
+<p style="text-align:justify"><img src="{{ site.baseurl }}/Bryant.jpg" align="right" width="150" img style="margin-left: 15px"/>Kathryn Bryant is a Visiting Assistant Professor of Mathematics at Colorado College. She received her Ph.D. from Bryn Mawr College in May 2016 and is an alumna of Northern Arizona University. Her primary area of research is in low-dimensional topology, within which she studies questions in the intersection of knot theory and 4-manifold theory. Kathryn's secondary area of research is in applied topology, with a current project looking at the applications of persistent homology to topographical pattern recognition in geophysical (geological) data. When she is not thinking about math in its varied capacities, she enjoys running, yoga, and finding and consuming the best almond croissants in town.</p>
 
-<p style="text-align:justify"><b>Where Geometry and Topology Collide: The Unsolved (!) Inscribed Square Problem</b></p>
+<p style="text-align:justify"><b>Title:</b> Where Geometry and Topology Collide: The Unsolved (!) Inscribed Square Problem</p>
 
 <p style="text-align:justify"><b>Abstract:</b> Coming soon.</p>
 
