@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invited Faculty Speakers
+title: Faculty Speakers
 ---
 
 <h2>Henry Segerman</h2>
