@@ -91,12 +91,12 @@ html {
 .sidebar-about h1 {
   color: #268bd2;
   margin-top: 0;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 .sidebar-about h2 {
   margin-top: 0;
   color: #9a9a9a;
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 
 /* Sidebar nav */
