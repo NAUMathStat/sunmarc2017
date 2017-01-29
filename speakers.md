@@ -5,7 +5,7 @@ title: Invited Faculty Speakers
 
 <h2>Henry Segerman</h2>
 
-<p style="text-align:justify"><a href="http://www.segerman.org">Henry Segerman</a> is an assistant professor in the department of mathematics at Oklahoma State University. His research interests are in three-dimensional geometry and topology, and in mathematical art and visualization. In visualization, he works mostly in the medium of 3D printing, with other interests in spherical video, virtual, and augmented reality. He is the author of the book <a href="http://www.3dprintmath.com">Visualizing Mathematics with 3D Printing</a>.</p>
+<p style="text-align:justify"><img src="{{ site.baseurl }}/Segerman1.jpg" align="right" width="150" img style="margin: 10px 0 0 15px"/><a href="http://www.segerman.org">Henry Segerman</a> is an assistant professor in the department of mathematics at Oklahoma State University. His research interests are in three-dimensional geometry and topology, and in mathematical art and visualization. In visualization, he works mostly in the medium of 3D printing, with other interests in spherical video, virtual, and augmented reality. He is the author of the book <a href="http://www.3dprintmath.com">Visualizing Mathematics with 3D Printing</a>.</p>
 
 <p style="text-align:justify"><b>Title:</b> Coming soon.</p>
 
