@@ -99,9 +99,9 @@ html {
 }
 
 /* Sidebar nav */
-.sidebar-nav {
-  margin-bottom: 1rem;
-}
+/* .sidebar-nav {
+  margin-bottom: rem;
+} */
 .sidebar-nav ul {
   margin-left: 5px;
   margin-right: 0px;
