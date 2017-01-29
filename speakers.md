@@ -7,9 +7,9 @@ title: Faculty Speakers
 
 <p><img src="{{ site.baseurl }}/Segerman1.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/><a href="http://www.segerman.org">Henry Segerman</a> is an assistant professor in the department of mathematics at Oklahoma State University. His research interests are in three-dimensional geometry and topology, and in mathematical art and visualization. In visualization, he works mostly in the medium of 3D printing, with other interests in spherical video, virtual, and augmented reality. He is the author of the book <a href="http://www.3dprintmath.com">Visualizing Mathematics with 3D Printing</a>.</p>
 
-<p><b>Title:</b> Coming soon.</p>
+<p><b>Title:</b> 3D Shadows: Casting light on the fourth dimension</p>
 
-<p><b>Abstract:</b> Coming soon.</p>
+<p><b>Abstract:</b> Our brains have evolved in a three-dimensional environment, and so we are very good at visualizing two- and three-dimensional objects. But what about four-dimensional objects? The best we can really do is to look at three-dimensional "shadows". Just as a shadow of a three-dimensional object squishes it into the two-dimensional plane, we can squish a four-dimensional shape into three-dimensional space, where we can then make a sculpture of it. If the four-dimensional object isn't too complicated and we choose a good way to squish it, then we can get a very good sense of what it is like. We will explore the sphere in four-dimensional space, the four-dimensional polytopes (which are the four-dimensional versions of the three-dimensional polyhedra), and various 3D printed sculptures, puzzles, and virtual reality experiences that have come from thinking about these things. I talk about these topics and much more in my new book, "Visualizing Mathematics with 3D Printing".</p>
 
 <h2>Kathryn Bryant</h2>
 
