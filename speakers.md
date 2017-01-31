@@ -13,12 +13,18 @@ title: Faculty Speakers
 
 <h2>Kathryn Bryant</h2>
 
-<p><img src="{{ site.baseurl }}/Bryant.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>Kathryn Bryant is a Visiting Assistant Professor of Mathematics at Colorado College. She received her Ph.D. from Bryn Mawr College in May 2016 and is an alumna of Northern Arizona University. Her primary area of research is in low-dimensional topology, within which she studies questions in the intersection of knot theory and 4-manifold theory. Kathryn's secondary area of research is in applied topology, with a current project looking at the applications of persistent homology to topographical pattern recognition in geophysical (geological) data. When she is not thinking about math in its varied capacities, she enjoys running, yoga, and finding and consuming the best almond croissants in town.</p>
+<p><img src="{{ site.baseurl }}/Bryant.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>Kathryn Bryant is a Visiting Assistant Professor of Mathematics at Colorado College. She received her PhD from Bryn Mawr College in May 2016 and is an alumna of Northern Arizona University. Her primary area of research is in low-dimensional topology, within which she studies questions in the intersection of knot theory and 4-manifold theory. Kathryn's secondary area of research is in applied topology, with a current project looking at the applications of persistent homology to topographical pattern recognition in geophysical (geological) data. When she is not thinking about math in its varied capacities, she enjoys running, yoga, and finding and consuming the best almond croissants in town.</p>
 
 <p><b>Title:</b> Where Geometry and Topology Collide: The Unsolved (!) Inscribed Square Problem</p>
 
 <p><b>Abstract:</b> Coming soon.</p>
 
-<h2>Stephen Wilson</h2>
+<h2>Steven Wilson</h2>
 
-<p>Bio, title, and abstract coming soon.</p>
+<p><img src="{{ site.baseurl }}/Wilson.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>Steve Wilson  graduated from NAU, went to the University of Washington for his PhD and returned here after freezing at Michigan State and getting married in Pennsylvania.  His specialties are combinatorics, symmetry, graph theory, number theory (as an amateur), and crackpot mathematics in general.   He is known, for his work on regular maps, and on tetravalent edge-transitive graphs, by a very small number of very widely dispersed people.</p>
+
+<p><b>Title:</b> To Fight And Never Lose</p>
+
+<p><b>Abstract:</b> In this talk we will provide both weapons and armor that will make you invincible in all [1] conflicts.</p>
+
+<p>[1] Note that "all" in this context means "a number of well-chosen, purely non-violent".</p>
