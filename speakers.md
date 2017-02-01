@@ -19,7 +19,7 @@ title: Faculty Speakers
 
 <p><b>Abstract:</b> Coming soon.</p>
 
-<h2>Steven Wilson</h2>
+<h2>Steve Wilson</h2>
 
 <p><img src="{{ site.baseurl }}/Wilson.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>Steve Wilson  graduated from NAU, went to the University of Washington for his PhD and returned here after freezing at Michigan State and getting married in Pennsylvania.  His specialties are combinatorics, symmetry, graph theory, number theory (as an amateur), and crackpot mathematics in general.   He is known, for his work on regular maps, and on tetravalent edge-transitive graphs, by a very small number of very widely dispersed people.</p>
 
