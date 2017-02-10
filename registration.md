@@ -3,7 +3,7 @@ layout: page
 title: Registration & Abstract Submission
 ---
 
-The goal of the conference is to welcome undergraduates to the wonderful world of mathematics research, to develop and foster a rich social network between the mathematics students and faculty throughout the great Southwest, and to celebrate the accomplishments of our undergraduate students. We encourage undergraduate students from all years of study to participate and give presentations on all areas of mathematics, including applications to other disciplines. However, while we do recommend giving a talk, it is not a requirement for conference participation. For more details about giving a student talk at SUnMaRC, check out the [Call for Presentations]({{ site.baseurl }}/call). Please consult your faculty advisor before submitting a title and abstract.
+The goal of the conference is to welcome undergraduates to the wonderful world of mathematics research, to develop and foster a rich social network between the mathematics students and faculty throughout the great Southwest, and to celebrate the accomplishments of our undergraduate students. We encourage undergraduate students from all years of study to participate and give presentations in any area of mathematics, including applications to other disciplines.  However, while we do recommend giving a talk, it is not a requirement for conference participation. For more details about giving a student talk at SUnMaRC, check out the [Call for Presentations]({{ site.baseurl }}/call). Please consult your faculty advisor before submitting a title and abstract.
 
 <p>To register for the conference and to submit a title and abstract for a student presentation, click the link below:</p>
 
@@ -15,7 +15,7 @@ The goal of the conference is to welcome undergraduates to the wonderful world o
 
 <p>The deadline for registration and abstract submission is <b>Monday, March 6, 2017</b>.</p>
 
-The registration fee is TBA per participant. Typically, the registration fees are taken care of by each institution's faculty representative. To have your department pay NAU directly, please contact [Bea Gallegos](emailto:Beatrice.Gallegos@nau.edu). Bea can send an invoice to your department for processing. If you do not need an invoice, you can send a check or money order to:
+The registration fee is TBA per participant. Typically, the registration fees are taken care of by each institution's faculty representative. To have your department pay NAU directly, please contact [Bea Gallegos](mailto:Beatrice.Gallegos@nau.edu). Bea can send an invoice to your department for processing. If you do not need an invoice, you can send a check or money order to:
 
 <p>
 Bea Gallegos<br />
