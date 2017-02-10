@@ -63,3 +63,15 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+.button {
+    background-color: #e7e7e7; /* Gray */
+    border-radius: 4px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
