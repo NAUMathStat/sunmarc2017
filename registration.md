@@ -5,7 +5,7 @@ title: Registration & Abstract Submission
 
 The goal of the conference is to welcome undergraduates to the wonderful world of mathematics research, to develop and foster a rich social network between the mathematics students and faculty throughout the great Southwest, and to celebrate the accomplishments of our undergraduate students. We encourage undergraduate students from all years of study to participate and give presentations on all areas of mathematics, including applications to other disciplines. However, while we do recommend giving a talk, it is not a requirement for conference participation. For more details about giving a student talk at SUnMaRC, check out the [Call for Presentations]({{ site.baseurl }}/call). Please consult your faculty advisor before submitting a title and abstract.
 
-<p>To register for the conference and to submit a title and abstract for a student presentation, click the link below and then fill in the Google Form:</p>
+<p>To register for the conference and to submit a title and abstract for a student presentation, click the link below:</p>
 
 <p>
 <center>
