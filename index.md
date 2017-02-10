@@ -7,11 +7,11 @@ title: SUnMaRC 2017
 
 <p>The conference began in 2004 as the Arizona Mathematics Undergraduate Conference.  In 2008, the conference changed to SUnMaRC to recognize the participation of institutions throughout the southwest.</p>
 
-<p>If you have any questions about this year's SUnMaRC, please contact one of the conference organizers:</p>
+If you have any questions about this year's SUnMaRC, please contact one of the conference organizers:
 
-[Jeff Rushall](mailto:jeffrey.rushall@nau.edu)<br />
-[Dana Ernst](mailto:dana.ernst@nau.edu)<br />
-[Nellie Gopaul](mailto:Nellie.Gopaul@nau.edu)<br />
-[Tiffany Lenhart](mailto:Tiffany.Lenhart@nau.edu)
+- [Jeff Rushall](mailto:jeffrey.rushall@nau.edu)
+- [Dana Ernst](mailto:dana.ernst@nau.edu)
+- [Nellie Gopaul](mailto:Nellie.Gopaul@nau.edu)
+- [Tiffany Lenhart](mailto:Tiffany.Lenhart@nau.edu)
 
 <p>This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://hyde.getpoole.com">Hyde</a>. You can find the <a href="http://github.com/NAUMathStat/seminars">source code</a> on GitHub. The site is maintained by <a href="http://dcernst.github.io">Dana C. Ernst</a>. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
