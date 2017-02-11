@@ -21,7 +21,6 @@ The registration fee is TBA per participant. Typically, the registration fees ar
 Bea Gallegos<br />
 Department of Mathematics &amp; Statistics<br />
 Northern Arizona University<br />
-805 South Osborne Drive<br />
 PO Box 5717<br />
 Flagstaff,  AZ  86011
 </p>
