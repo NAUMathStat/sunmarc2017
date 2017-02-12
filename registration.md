@@ -15,7 +15,7 @@ The goal of the conference is to welcome undergraduates to the wonderful world o
 
 <p>The deadline for registration and abstract submission is <b>Monday, March 6, 2017</b>.</p>
 
-The registration fee is TBA per participant. Typically, the registration fees are taken care of by each institution's faculty representative. To have your department pay NAU directly, please contact [Bea Gallegos](mailto:Beatrice.Gallegos@nau.edu). Bea can send an invoice to your department for processing. If you do not need an invoice, you can send a check or money order to:
+The registration fee is **$30 per participant**. Typically, the registration fees are taken care of by each institution's faculty representative. To have your department pay NAU directly, please contact [Bea Gallegos](mailto:Beatrice.Gallegos@nau.edu). Bea can send an invoice to your department for processing. If you do not need an invoice, you can send a check or money order to:
 
 <p>
 Bea Gallegos<br />
