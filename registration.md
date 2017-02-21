@@ -22,7 +22,8 @@ Bea Gallegos<br />
 Department of Mathematics &amp; Statistics<br />
 Northern Arizona University<br />
 PO Box 5717<br />
-Flagstaff,  AZ  86011
+Flagstaff,  AZ  86011<br />
+928.523.4220
 </p>
 
 *Note to Faculty:* We recommend that one faculty member from each school attend for every 4-6 students that participate.

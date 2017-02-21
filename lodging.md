@@ -23,4 +23,4 @@ Flagstaff, AZ  86001<br />
 928.773.4900
 </p>
 
-This hotel is a five-minute walk from Adel Mathematics. If you are interested in reserving a room at the Drury Inn, please contact our administrative assistant [Bea Gallegos](emailto:Beatrice.Gallegos@nau.edu) instead of calling the hotel directly.
+This hotel is a five-minute walk from Adel Mathematics. If you are interested in reserving a room at the Drury Inn, please contact our administrative assistant [Bea Gallegos](emailto:Beatrice.Gallegos@nau.edu) at 928.523.4220 instead of calling the hotel directly.
