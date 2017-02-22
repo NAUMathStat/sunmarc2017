@@ -32,6 +32,8 @@ If you are having trouble with the "Register Here" link above, try this:
 
 <p>
 <center>
+<small>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1aZG4ASJQ8EABRzNihwEokNmRRs9eiDKxTOps4isR26xJMw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSf1aZG4ASJQ8EABRzNihwEokNmRRs9eiDKxTOps4isR26xJMw/viewform</a>
+</small>
 </center>
 </p>
