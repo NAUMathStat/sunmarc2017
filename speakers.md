@@ -9,7 +9,7 @@ title: Faculty Speakers
 
 <p><b>Title:</b> Where Geometry and Topology Collide: The Unsolved (!) Inscribed Square Problem</p>
 
-<p><b>Abstract:</b> Coming soon.</p>
+<p><b>Abstract:</b> If you draw a curve on a piece of paper that begins and ends in the same place and doesn't cross itself, can you find a square whose vertices lie in the curve? As of February 2017 the answer to this question, known as the Inscribed Square Problem, remains unknown. In this talk I will give a history of the ISP and some related results, and then I will give a geometric proof of the slightly weaker Inscribed Rectangle Problem. We'll end by analyzing why the proof for inscribed rectangles fails for squares and we'll brainstorm ideas for how to correct this failure.</p>
 
 <h2>Henry Segerman</h2>
 
