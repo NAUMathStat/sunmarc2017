@@ -5,47 +5,16 @@ title: Schedule
 
 Student talks are 20 minutes long and should include time for questions at the end. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164.
 
-
-
-## Friday, March 31 ##
-
-| Friday, March 31 |            |       |                 |
-| ------------- |:-------------:| -----:|
-| 4:00--6:00pm  | Registration  |       | du Bois Ballroom |
-
-
-<center>
-<table class="table table-striped">
-	<thead>
-	<tr>
-		<th style="text-align: center;">Grade</th>
-		<th>Criteria</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td style="text-align: center;">4</td>
-		<td>This is correct and well-written mathematics!</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;">3</td>
-		<td>This is a good piece of work, yet there are some mathematical errors or some writing errors that need addressing.</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;">2</td>
-		<td>There is some good intuition here, but there is at least one serious flaw. </td>
-	</tr>
-	<tr>
-		<td style="text-align: center;">1</td>
-		<td>I don't understand this, but I see that you have worked on it; come see me!</td>
-	</tr>
-	<tr>
-		<td style="text-align: center;">0</td>
-		<td>I believe that you have not worked on this problem enough or you didn't submit any work.</td>
-	</tr>
-	</tbody>
+<table>
+  <tr>
+    <td colspan="4">Friday, March 31</td>
+  </tr>
+  <tr>
+    <td>4:00--6:00pm</td>
+    <td colspan="2">Registration</td>
+    <td>du Bois Ballroom</td>
+  </tr>
 </table>
-</center>
 
 <!--
 \begin{table}[h]
