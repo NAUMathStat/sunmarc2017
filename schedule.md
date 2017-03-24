@@ -8,7 +8,7 @@ Student talks are 20 minutes long and should include time for questions at the e
 <table>
 <thead>
 <tr>
-<td colspan="4">Friday, March 31</td>
+<td colspan="4"><b>Friday, March 31</b></td>
 </tr>
 </thead>
 <tr>
