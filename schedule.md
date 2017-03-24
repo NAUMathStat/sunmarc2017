@@ -44,21 +44,6 @@ Student talks are 20 minutes long and should include time for questions at the e
 </table>
 
 <!--
-\begin{table}[h]
-\centering
-\begin{tabular}{@{}llll@{}}
-\toprule
-\multicolumn{4}{c}{\textbf{Friday, March 31}}\\
-\toprule
-4:00--6:00pm & Registration & & du Bois Ballroom\\
-6:00--7:00pm & Dinner & & du Bois Ballroom\\
-7:00--8:00pm & \multicolumn{2}{l}{Dr.~Steve Wilson} & du Bois Ballroom\\
-& \multicolumn{2}{l}{\emph{To Fight And Never Lose}} &\\
-8:00--8:15pm & Faculty Meeting & & du Bois Ballroom\\
-& \multicolumn{2}{l}{Math Club \& Moderators Meeting} & \\
-8:00--9:00pm & Problem Contest & & du Bois Ballroom\\
-\\
-\toprule
 \multicolumn{4}{c}{\textbf{Saturday, April 1}}\\
 \toprule
 9:00--9:20am & E.~O'Neel--Judy & H.~Grayer & Adel 162/164\\
