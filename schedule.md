@@ -6,14 +6,26 @@ title: Schedule
 Student talks are 20 minutes long and should include time for questions at the end. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164.
 
 <table>
-  <tr>
-    <td colspan="4">Friday, March 31</td>
-  </tr>
-  <tr>
-    <td>4:00--6:00pm</td>
-    <td colspan="2">Registration</td>
-    <td>du Bois Ballroom</td>
-  </tr>
+<thead>
+<tr>
+<td colspan="4">Friday, March 31</td>
+</tr>
+</thead>
+<tr>
+<td>4:00-6:00pm</td>
+<td colspan="2">Registration</td>
+<td>du Bois Ballroom</td>
+</tr>
+<tr>
+<td>6:00-7:00pm</td>
+<td colspan="2">Dinner</td>
+<td>du Bois Ballroom</td>
+</tr>
+<tr>
+<td>7:00-8:00pm</td>
+<td colspan="2">Dr. Steve Wilson</td>
+<td>du Bois Ballroom</td>
+</tr>
 </table>
 
 <!--
