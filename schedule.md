@@ -166,35 +166,29 @@ Student talks are 20 minutes long and should include time for questions at the e
 </tr>
 </thead>
 <tr>
-<td>9:00-9:20am</td>
+<td>9:30-9:50am</td>
 <td>K. Winseck & E. Martinez</td>
 <td>N. Gaynor</td>
 <td>Adel 162/164</td>
 </tr>
 
 <tr>
-<td>9:25-9:45am</td>
+<td>9:55-10:15am</td>
 <td>P. Gonzalez</td>
 <td>M. Avery</td>
 <td>Adel 162/164</td>
 </tr>
 
 <tr>
-<td>9:50-10:10am</td>
+<td>10:20-10:40am</td>
 <td>R. Wood</td>
 <td>T. Doehrman</td>
 <td>Adel 162/164</td>
 </tr>
 
 <tr>
-<td>10:15-10:30am</td>
-<td colspan="2">Problem Contest Award</td>
-<td>Adel Lobby</td>
-</tr>
-
-<tr>
-<td>10:30-11:00am</td>
-<td colspan="2">Closing Remarks</td>
+<td>10:45-11:00am</td>
+<td colspan="2">Problem Contest Awards and Closing Remarks</td>
 <td>Adel Lobby</td>
 </tr>
 
