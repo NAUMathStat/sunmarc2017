@@ -153,7 +153,7 @@ Student talks are 20 minutes long and should include time for questions at the e
 
 <tr>
 <td>6:00-9:00pm</td>
-<td colspan="2">Games & Movies</td>
+<td colspan="2">Games & Movie</td>
 <td>Adel 162/164</td>
 </tr>
 
