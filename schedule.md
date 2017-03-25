@@ -23,14 +23,14 @@ Student talks are 20 minutes long and should include time for questions at the e
 </tr>
 <tr>
 <td>7:00-8:00pm</td>
-<td colspan="2">Dr. Steve Wilson<br> <i>To Fight And Never Lose</i </td>
+<td colspan="2">Dr. Steve Wilson<br> <i>To Fight And Never Lose</i></td>
 <td>du Bois Ballroom</td>
 </tr>
 <tr>
-<td></td>
+<!-- <td></td>
 <td colspan="3"><i>To Fight And Never Lose</i></td>
 </tr>
-<tr>
+<tr> -->
 <td>8:00-8:15pm</td>
 <td colspan="2">Faculty Meeting</td>
 <td>du Bois Ballroom</td>
