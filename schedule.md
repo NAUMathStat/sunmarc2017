@@ -23,7 +23,7 @@ Student talks are 20 minutes long and should include time for questions at the e
 </tr>
 <tr>
 <td>7:00-8:00pm</td>
-<td colspan="2">Dr. Steve Wilson</td>
+<td colspan="2">Dr. Steve Wilson<br> <i>To Fight And Never Lose</i </td>
 <td>du Bois Ballroom</td>
 </tr>
 <tr>
