@@ -26,11 +26,11 @@ Student talks are 20 minutes long and should include time for questions at the e
 <td colspan="2">Dr. Steve Wilson<br> <i>To Fight And Never Lose</i></td>
 <td>du Bois Ballroom</td>
 </tr>
-<tr>
-<!-- <td></td>
+<!-- <tr>
+<td></td>
 <td colspan="3"><i>To Fight And Never Lose</i></td>
-</tr>
-<tr> -->
+</tr>-->
+<tr>
 <td>8:00-8:15pm</td>
 <td colspan="2">Faculty Meeting</td>
 <td>du Bois Ballroom</td>
@@ -55,6 +55,48 @@ Student talks are 20 minutes long and should include time for questions at the e
 <th colspan="4" style="text-align: center;">Saturday, April 1</th>
 </tr>
 </thead>
+<tr>
+<td>9:00-9:20am</td>
+<td>E. O'Neel-Judy</td>
+<td>H. Grayer</td>
+<td>Adel 162/164</td>
+</tr>
+
+<tr>
+<td>9:25-9:45am</td>
+<td>B. Carr</td>
+<td>R. Orozco</td>
+<td>Adel 162/164</td>
+</tr>
+
+<tr>
+<td>9:50-10:10am</td>
+<td>E. Bidari</td>
+<td>D. Badaczewski</td>
+<td>Adel 162/164</td>
+</tr>
+
+<tr>
+<td>10:10-10:30am</td>
+<td colspan="2">Break</td>
+<td>Snacks in Adel Lobby</td>
+</tr>
+
+<tr>
+<td>10:30-10:50am</td>
+<td>S. Blahnik</td>
+<td>A. Medeck</td>
+<td>Adel 162/164</td>
+</tr>
+
+
+
+<tr>
+<td>11:00-12:00pm</td>
+<td colspan="2">Dr. Kathryn Bryant<br> <i>Where Geometry and Topology Collide: The Unsolved (!) Inscribed Square Problem</i></td>
+<td>Cline Library Auditorium</td>
+</tr>
+
 </table>
 
 <!-- * -->
