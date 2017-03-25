@@ -119,7 +119,7 @@ Student talks are 20 minutes long and should include time for questions at the e
 </tr>
 
 <tr>
-<td>11:00-10:00pm</td>
+<td>11:00-12:00pm</td>
 <td colspan="2">Lunch</td>
 <td>Adel Lobby</td>
 </tr>
