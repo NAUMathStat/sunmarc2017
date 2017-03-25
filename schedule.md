@@ -1,7 +1,7 @@
---
+---
 layout: page
 title: Schedule
---
+---
 
 Student talks are 20 minutes long and should include time for questions at the end. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164.
 
