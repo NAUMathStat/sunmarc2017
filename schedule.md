@@ -26,17 +26,13 @@ Student talks are 20 minutes long and should include time for questions at the e
 <td colspan="2"><a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Steve Wilson</a></td>
 <td>du Bois Ballroom</td>
 </tr>
-<!-- <tr>
-<td></td>
-<td colspan="3"><i>To Fight And Never Lose</i></td>
-</tr>-->
 <tr>
 <td>8:00-8:15pm</td>
 <td colspan="2">Faculty Meeting</td>
 <td>du Bois Ballroom</td>
 </tr>
 <tr>
-<td></td>
+<td>8:00-8:15pm</td>
 <td colspan="2">Math Club & Moderators Meeting</td>
 <td>du Bois Ballroom</td>
 </tr>
