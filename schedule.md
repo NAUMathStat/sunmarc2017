@@ -3,9 +3,11 @@ layout: page
 title: Schedule
 ---
 
-The schedule for the conference is provided below.  A PDF version of the schedule is available [here](https://naumathstat.github.io/sunmarc2017/schedule.pdf). Titles and abstracts for faculty speakers are located [here](https://naumathstat.github.io/sunmarc2017/speakers/) and titles and abstracts for students can be found [here](https://naumathstat.github.io/sunmarc2017/abstracts.pdf).
+An overview of the schedule for the conference is provided below.  Student talks are 20 minutes long and should include time for questions at the end. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164. Additional information:
 
-Student talks are 20 minutes long and should include time for questions at the end. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164.
+- [Overview of schedule](https://naumathstat.github.io/sunmarc2017/schedule.pdf) (PDF)
+- [Bios, titles, and abstracts for faculty speakers](https://naumathstat.github.io/sunmarc2017/speakers/)
+- [Titles and abstracts for student talks](https://naumathstat.github.io/sunmarc2017/abstracts.pdf) (PDF)
 
 <table>
 <thead>
