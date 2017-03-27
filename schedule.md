@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---
 
-An overview of the schedule for the conference is provided below.  Student talks are 20 minutes long and should include time for questions at the end. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164. Additional information:
+An overview of the schedule for the conference is provided below.  Student talks are 20 minutes long and should include time for questions at the end. We suggest you plan a talk that lasts 17-18 minutes and allow 2-3 minutes for questions. For student talks, the one listed on the left will be in Adel 162 and the one listed on the right will be in Adel 164. Additional information:
 
 - [Overview of schedule](https://naumathstat.github.io/sunmarc2017/schedule.pdf) (PDF)
 - [Bios, titles, and abstracts for faculty speakers](https://naumathstat.github.io/sunmarc2017/speakers/)
@@ -27,7 +27,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 </tr>
 <tr>
 <td>7:00-8:00pm</td>
-<td colspan="2"><a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Steve Wilson</a></td>
+<td colspan="2"><b>Plenary Address:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Steve Wilson</a></td>
 <td>du Bois Ballroom</td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <tr>
 <td>11:00-12:00pm</td>
-<td colspan="2"><a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Kathryn Bryant</a></td>
+<td colspan="2"><b>Plenary Address:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Kathryn Bryant</a></td>
 <td>Cline Library Auditorium</td>
 </tr>
 
@@ -137,7 +137,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <tr>
 <td>4:00-5:00pm</td>
-<td colspan="2"><a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Henry Segerman</a></td>
+<td colspan="2"><b>Plenary Address:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Henry Segerman</a></td>
 <td>Cline Library Auditorium</td>
 </tr>
 
