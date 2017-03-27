@@ -27,7 +27,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 </tr>
 <tr>
 <td>7:00-8:00pm</td>
-<td colspan="2"><b>Plenary Address:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Steve Wilson</a></td>
+<td colspan="2"><b>Plenary:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Steve Wilson</a></td>
 <td>du Bois Ballroom</td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <tr>
 <td>11:00-12:00pm</td>
-<td colspan="2"><b>Plenary Address:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Kathryn Bryant</a></td>
+<td colspan="2"><b>Plenary:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Kathryn Bryant</a></td>
 <td>Cline Library Auditorium</td>
 </tr>
 
@@ -137,7 +137,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <tr>
 <td>4:00-5:00pm</td>
-<td colspan="2"><b>Plenary Address:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Henry Segerman</a></td>
+<td colspan="2"><b>Plenary:</b> <a href="https://naumathstat.github.io/sunmarc2017/speakers/">Dr. Henry Segerman</a></td>
 <td>Cline Library Auditorium</td>
 </tr>
 
