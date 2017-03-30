@@ -3,7 +3,7 @@ layout: page
 title: Problem Contest
 ---
 
-Every year at SUnMaRC, there is a student Problem Contest that runs concurrently with the conference. Below are the details concerning this year's contest. You can find a PDF version of the contest rules [here](https://naumathstat.github.io/sunmarc2017/contest.pdf)
+Every year at SUnMaRC, there is a student Problem Contest that runs concurrently with the conference. Below are the details concerning this year's contest. You can find a PDF version of the contest rules [here](https://naumathstat.github.io/sunmarc2017/contest.pdf).
 
 - There will be four sessions for the Problem Contest:
     - Session 1A: 8:00-9:00pm on Friday, du Bois Ballroom
