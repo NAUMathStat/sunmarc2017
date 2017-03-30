@@ -11,6 +11,7 @@ Every year at SUnMaRC, there is a student Problem Contest that runs concurrently
     - Session 2A: 5:15-9:00pm on Saturday, Adel Mathematics 163
     - Session 2B: 9:00pm on Saturday to 9:30am on Sunday
 - List of currently solved problems is available [here](http://goo.gl/gZmeRM).
+- Solutions must include: **problem number**, **student name**, and **student institution**.
 - **Session 1A:** Following Friday evening’s plenary talk, the Problem Contest will be begin. During this time, the first student to submit a correct solution to a particular problem will earn 2 points for themselves and for their school. Once a problem has successfully been solved, no other student may receive credit.
 - **Session 1B:** From 9:00pm on Friday until 9:00am on Saturday, students may continue working on unsolved problems, which they may submit prior to the first talk on Saturday morning. Problems should be submitted to room 163 in the Adel Mathematics building. Up to one student per school that submits a correct solution to a problem submitted on Saturday morning will receive 1 point for themselves and for their school. Unlike the problems completed on Friday evening, multiple students, but at most one per school, may receive points for the same problem.
 - The Problem Contest is on hold during the day on Saturday so that students can focus on attending student and faculty talks.
