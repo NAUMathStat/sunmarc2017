@@ -84,7 +84,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <tr>
 <td>10:30-10:50am</td>
-<td>S. Blahnik</td>
+<td>M. Avery</td>
 <td>A. Medeck</td>
 <td>Adel 162/164</td>
 </tr>
@@ -179,7 +179,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 <tr>
 <td>9:55-10:15am</td>
 <td>P. Gonzalez</td>
-<td>M. Avery</td>
+<td>???</td>
 <td>Adel 162/164</td>
 </tr>
 
