@@ -9,7 +9,7 @@ Every year at SUnMaRC, there is a student Problem Contest that runs concurrently
 
 We were truly impressed with the number of students that participated in this year's Problem Contest.  The list of problems for both sessions can be found [here](https://naumathstat.github.io/sunmarc2017/SUnMaRCProblems2017.pdf).  
 
-The top 3 individual problem solvers where:
+The top 3 individual problem solvers were:
 
 1. Courtney Schmitt from Northern Arizona University (15 points)
 2. Jeff Covington from Northern Arizona University (14 points)
