@@ -179,7 +179,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 <tr>
 <td>9:55-10:15am</td>
 <td>P. Gonzalez</td>
-<td>???</td>
+<td>Z. Parker</td>
 <td>Adel 162/164</td>
 </tr>
 
