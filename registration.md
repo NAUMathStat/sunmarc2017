@@ -9,7 +9,7 @@ The goal of the conference is to welcome undergraduates to the wonderful world o
 
 <p>
 <center>
-<button class="button"><a href="">Register Has Closed</a></button>
+<button class="button"><a href="">Registration Has Closed</a></button>
 </center>
 </p>
 
